@@ -1,4 +1,3 @@
-```javascript
 // vulnerable-demo.js
 // EXTREMELY VULNERABLE JS DEMO APPLICATION
 // For educational/security scanner testing ONLY
@@ -214,4 +213,4 @@ app.listen(3000, () => {
 
     console.log("Vulnerable app running on port 3000");
 });
-```
+
