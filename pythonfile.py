@@ -2,12 +2,13 @@
 # EXTREMELY VULNERABLE DEMO APPLICATION
 # For educational/security scanner testing ONLY
 
-import os
+
 import sqlite3
 import pickle
 import hashlib
 import random
 import subprocess
+
 
 # ------------------------------------------------
 # Hardcoded Secrets
