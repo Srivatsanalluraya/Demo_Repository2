@@ -20,6 +20,7 @@ const API_KEY = "SUPER_SECRET_API_KEY_123456";
 const DB_PASSWORD = "admin123";
 const JWT_SECRET = "jwt_secret_key";
 const AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
+const SLCK = "slacktoken_@123"
 
 // ------------------------------------------------
 // Weak Cryptography
